@@ -15,6 +15,25 @@ do Curso DIO [Bradesco - Java Cloud Native ](https://www.dio.me/sign-up)
 
 | Aulas | Descrição |
 | ----- | --------- |
-| Instalando Git Windows | [Acesso](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/c8d73362-9038-4259-af4c-30dcc5551afe?autoplay=1&back=%2Ftrack%2Fbradesco-java-cloud-native&moduleId=undefined&tab=undefined) |
-| Configurando Git | [Acesso](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f9b294d2-f8ca-4364-9031-1e897721b3e2?autoplay=1&back=%2Ftrack%2Fbradesco-java-cloud-native&moduleId=undefined&tab=undefined)|
-| Criando e Clonando Repositório | [Acesso](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/a377a00b-461c-4ab0-8258-3addd2fef14c?autoplay=1&back=%2Ftrack%2Fbradesco-java-cloud-native&moduleId=undefined&tab=undefined)|
+| Instalando Git Windows | [Acesso](## ✒ Versionamento de Código com Git e GitHub
+
+
+ Sitemas de Comando de Versão 
+
+ `Os Sistemas de Controle de Versão (Version Control System - VCS), são softwares que controlam as versões de um arquivo ao longo do tempo.`
+
+ | Sistemas | Descrição |
+ | -------- | --------- | 
+ | Centralizado (CVCS)| Um único servidor dispõe dos arquivos de controle de versão.|
+ | Distribuído (DVCS) | Duplica localmente o repositório completo, incluindo o histórico de versões.|  
+
+
+
+
+   - Git 
+ Sistemas de controle de Versão Distribuído.
+
+   * GitHub
+ Plataforma de hospedagem de Código para controle de versão com Git, colaboração.) |
+| Versionamento de Código com Git e GitHub | [Acesso](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f9b294d2-f8ca-4364-9031-1e897721b3e2?autoplay=1&back=%2Ftrack%2Fbradesco-java-cloud-native&moduleId=undefined&tab=undefined)|
+| Primeiros Passos com Git e GitHub | [Acesso] (https://github.com/RodrigoSantana-Dev/BootCamp-Bradesco/blob/main/mateiral/Primeiros-Passos-com-GitEGitHub.md)|
