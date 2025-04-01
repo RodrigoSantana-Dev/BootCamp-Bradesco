@@ -15,8 +15,8 @@ do Curso DIO [Bradesco - Java Cloud Native ](https://www.dio.me/sign-up)
 
 | Aulas |
 | ----- | 
-|[Instalação, Configuração e Autenticação](mateiral/Instalaçao-configuracao.md)| 
-|[Primeiros Passos com Git e GitHub](mateiral/Primeiros-Passos-com-GitEGitHub.md) |
-|[Visão Geral do Curso e Ferramentas](mateiral/README.md)|
-|[Dicas-e-Material-de-Apoio]()|
+|[Instalação, Configuração e Autenticação](https://github.com/RodrigoSantana-Dev/BootCamp-Bradesco/blob/main/material/Instala%C3%A7ao-configuracao.md)| 
+|[Primeiros Passos com Git e GitHub](https://github.com/RodrigoSantana-Dev/BootCamp-Bradesco/blob/main/material/Primeiros-Passos-com-GitEGitHub.md) |
+|[Visao Geral do Curso e Ferramentas](https://github.com/RodrigoSantana-Dev/BootCamp-Bradesco/blob/main/material/Visao-Geral-do-Curso.md)|
+|[Dicas-e-Material-de-Apoio](https://github.com/RodrigoSantana-Dev/BootCamp-Bradesco/blob/main/material/Dicas-e-Material-de-Apoio.md)|
 
